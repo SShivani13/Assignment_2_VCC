@@ -45,7 +45,7 @@ This project demonstrates how to set up a Virtual Machine (VM) on **Google Cloud
 - As CPU utilization increases, a new instance should be created automatically.
 - Once the load reduces, extra instances should be removed.
 
-  ### **5️⃣ Conclusion**
+  ### **Conclusion**
 I have successfully deployed a virtual machine on Google Cloud Platform, implemented security measures like IAM roles and firewall rules, and configured auto-scaling policies to ensure efficient resource management. By testing CPU utilization, if validated that auto-scaling responds dynamically to workload fluctuations, ensuring cost-effectiveness and optimal performance. These steps provide a scalable and secure cloud infrastructure suitable for handling varying workloads efficiently.
 
 
