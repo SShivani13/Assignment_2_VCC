@@ -4,7 +4,6 @@ mkdir test1
 cd test1
 v1 test.py
 
-
 #Infinite Number Generator Using Python Yield
 def to_infinity():
     index = 0
