@@ -1,4 +1,3 @@
-# # GCP Auto-Scaling and Security Configuration
 ## 📌 Project Overview
 This project demonstrates how to set up a Virtual Machine (VM) on **Google Cloud Platform (GCP)**, implement **auto-scaling policies**, and configure **security measures** like IAM roles and firewall rules.
 
